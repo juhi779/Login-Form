@@ -17,6 +17,3 @@ A simple and responsive Login Form created using **HTML and CSS**.
 
 This project was created to practice HTML and CSS and to understand the basic structure and styling of a login form.
 
-## Author
-
-**Juhi**
